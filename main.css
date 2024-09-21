@@ -56,6 +56,7 @@ span{
 
 .talks{
     background-color: black;
+    color: white;
     text-decoration: none;
     position: absolute;
     top: 20px;
@@ -64,14 +65,7 @@ span{
     margin-right: 2rem;
     border: 2px solid black;
     border-radius: 10px;
-}   
-
-.talks a{
-    text-decoration: none;
-    color: white;
 } 
-
-
 
 .container {
     padding: 20px;
